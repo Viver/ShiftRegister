@@ -1,17 +1,44 @@
-# Object files
-*.o
+# Build and Release Folders
+bin/
+bin-debug/
+bin-release/
+debug/
+release/
 
-# Libraries
+# Other files and folders
+settings/
+models/
+
+# ISIS Files
+*.dsn
+*.pwi
+
+# C - Object files
+*.o
+*.lss
+*.map
+*.d
+# C - Libraries
 *.lib
 *.a
 
-# Shared objects (inc. Windows DLLs)
+# C - Shared objects (inc. Windows DLLs)
 *.dll
 *.so
 *.so.*
 *.dylib
 
-# Executables
+# C - Executables
 *.exe
 *.out
 *.app
+*.hex
+*.elf
+*.epp
+
+# CMake
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+install_manifest.txt
