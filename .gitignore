@@ -8,6 +8,8 @@ release/
 # Other files and folders
 settings/
 models/
+.vs/
+SPI_Master.componentinfo.xml
 
 # ISIS Files
 *.dsn
@@ -18,6 +20,7 @@ models/
 *.lss
 *.map
 *.d
+
 # C - Libraries
 *.lib
 *.a

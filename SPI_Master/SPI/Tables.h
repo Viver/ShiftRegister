@@ -1,4 +1,3 @@
-#pragma onec
 #ifndef TABLES_H_
 #define TABLES_H_
 

@@ -1,4 +1,3 @@
-#pragma onec
 #ifndef SPI_H_
 #define SPI_H_
 

@@ -1,4 +1,3 @@
-#pragma onec
 #ifndef __INTERRUPT_H_
 #define __INTERRUPT_H_
 
